@@ -17,3 +17,31 @@
   -  Built a solid application architecture.
   -  Successfully deployed the application on vercel.
 
+## Sign-in Page
+![image](https://github.com/Darkphantom323/threads_app/assets/99313418/a9e0d1c6-b927-4ffb-8043-e8389f04fb9d)
+
+## Home Page
+![image](https://github.com/Darkphantom323/threads_app/assets/99313418/89797a74-7ba9-40ce-8d48-cab710b3489a)
+
+## Search bar
+![image](https://github.com/Darkphantom323/threads_app/assets/99313418/e6d87ff6-b5df-4892-aee4-aa31529b346d)
+
+## Activity
+![image](https://github.com/Darkphantom323/threads_app/assets/99313418/da0b6b18-2b78-4cf1-9022-b71f12dad42c)
+
+## Create Thread
+![image](https://github.com/Darkphantom323/threads_app/assets/99313418/50c1d4f7-1811-4960-bb82-ec4bc2ff716a)
+
+## Communities
+![image](https://github.com/Darkphantom323/threads_app/assets/99313418/78a32be0-a172-44a5-90bd-61ce44221a3f)
+
+## Profile Page
+![image](https://github.com/Darkphantom323/threads_app/assets/99313418/16551f9c-6a75-4dba-a450-62ec6b627fd8)
+
+
+
+
+
+
+
+
