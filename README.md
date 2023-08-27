@@ -15,5 +15,5 @@
   -  Managed forms with react hook form.
    - Created reusable components.
   -  Built a solid application architecture.
-  -  Successfully deployed the application and more!
+  -  Successfully deployed the application on vercel.
 
