@@ -39,8 +39,14 @@
 ![image](https://github.com/Darkphantom323/threads_app/assets/99313418/78a32be0-a172-44a5-90bd-61ce44221a3f)
 
 ## Profile Page
+
+### User Profile
 ![image](https://github.com/Darkphantom323/threads_app/assets/99313418/16551f9c-6a75-4dba-a450-62ec6b627fd8)
+
+### Community profile
 ![image](https://github.com/Darkphantom323/threads_app/assets/99313418/58205a6f-fa84-4db9-a1fb-ef127f045aab)
+![image](https://github.com/Darkphantom323/threads_app/assets/99313418/6ec65476-a0b5-40c6-b859-93a3371be1ee)
+
 
 
 
