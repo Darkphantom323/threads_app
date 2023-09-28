@@ -40,6 +40,8 @@
 
 ## Profile Page
 ![image](https://github.com/Darkphantom323/threads_app/assets/99313418/16551f9c-6a75-4dba-a450-62ec6b627fd8)
+![image](https://github.com/Darkphantom323/threads_app/assets/99313418/a8a09151-8f85-403f-bf4d-7c50adbb2637)
+
 
 
 
