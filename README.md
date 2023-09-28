@@ -20,6 +20,9 @@
 ## Sign-in Page
 ![image](https://github.com/Darkphantom323/threads_app/assets/99313418/a9e0d1c6-b927-4ffb-8043-e8389f04fb9d)
 
+## Onboarding page
+![image](https://github.com/Darkphantom323/threads_app/assets/99313418/d319eefa-6a2b-4adb-9fb5-3990720fbac1)
+
 ## Home Page
 ![image](https://github.com/Darkphantom323/threads_app/assets/99313418/89797a74-7ba9-40ce-8d48-cab710b3489a)
 
